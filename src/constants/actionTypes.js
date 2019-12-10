@@ -1,0 +1,14 @@
+export default {
+
+  // dataentry
+
+  TEXT_ENTERED: 'TEXT_ENTERED',
+  UNDO: 'UNDO',
+  CONTINUE: 'CONTINUE',
+  TOGGLE_START: 'TOGGLE_START',
+  VALIDATE: 'VALIDATE',
+  TRIMTEXT: 'TRIMTEXT'
+
+
+}
+
