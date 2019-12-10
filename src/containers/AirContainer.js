@@ -7,7 +7,7 @@ import { connect } from 'react-redux'
 
 class AirContainer extends React.Component {
 
-
+    
 
     cont = () => {
         this.props.dispatch({ type: ActionTypes.CONTINUE })
